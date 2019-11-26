@@ -1,6 +1,7 @@
 User-agent: *
 Disallow: /project.mobirise
-Sitemap: https://karpin-shkaf.ru/sitemap.xml
-Host: https://karpin-shkaf.ru
+Sitemap: https://shkafi-vsem.github.io/sitemap.xml
+Host: https://shkafi-vsem.github.io
+
 
 
