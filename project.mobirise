@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "ShkafiVseM!",
+    "name": "Shkafi-VseM!",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -50,7 +50,7 @@
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": true,
     "siteUrl": "https://shkafi-vsem.github.io",
-    "robotsText": "User-agent: *\nDisallow: /project.mobirise\nSitemap: https://shkafi-vsem.github.io/sitemap.xml\nHost: https://shkafi-vsem.github.io\n\n\n\n",
+    "robotsText": "User-agent: *\nDisallow: /project.mobirise\nSitemap: https://shkafi-vsem.github.io/sitemap.xml\nHost: https://shkafi-vsem.github.io\n\n\n\n\n\n",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
@@ -62,7 +62,7 @@
       "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
       "textButton": "Agree"
     },
-    "google-analytics": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(56396182, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/56396182\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
+    "google-analytics": "56396182",
     "gdpr": false
   },
   "pages": {
